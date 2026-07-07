@@ -1,2 +1,2 @@
-# Cognitive-Radios
+# Rádios Cognitivos
 Simulações no GNU Radio
